@@ -10,4 +10,5 @@ This repository contains the codes of Python for Data Science (DS) and Artificia
 2. Linear Algebra (LA)
 3. Statistics
 4. Machine Learning (ML)
-5. Deep Learning (DL) 
+5. Deep Learning (DL)
+6. Computer Vision (CV)
